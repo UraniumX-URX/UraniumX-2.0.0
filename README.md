@@ -66,7 +66,7 @@ UraniumX is released under the terms of the MIT license. See
 
 Links:
 -------
-[Explorer](explorer.uraniumx.org)
+[Explorer](https://explorer.uraniumx.org/)
 
 [Website](https://urx.zone/)
 
