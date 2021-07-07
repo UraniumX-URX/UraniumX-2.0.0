@@ -41,6 +41,24 @@ Proof of Work
 - **PoW Algorithm**: blocks 0-105000 was Argon2ad. After block 106500: modified yespowerurx (cpu-friendly, gpu-unfriendly)
 - **Difficulty**: Uses Dark Gravity Wave and updates every block.
 
+To Build
+---------------------
+```bash
+git clone https://github.com/UraniumX-URX/UraniumX-2.0.0.git uraniumx
+```
+```bash
+chmod -R +x uraniumx
+```
+```bash
+cd uraniumx
+```
+```bash
+./autogen.sh
+./configure
+make
+make install # optional
+```
+
 License
 -------
 UraniumX is released under the terms of the MIT license. See 
@@ -48,7 +66,7 @@ UraniumX is released under the terms of the MIT license. See
 
 Websites
 -------
-block explorer: scan.urx.zone
+block explorer: explorer.uraniumx.org
 
 main site: urx.zone
 
