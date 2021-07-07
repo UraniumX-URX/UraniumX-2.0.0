@@ -64,13 +64,13 @@ License
 UraniumX is released under the terms of the MIT license. See 
 [COPYING](COPYING) for more information or see https://opensource.org/licenses/MIT.
 
-Websites
+Links:
 -------
-block explorer: explorer.uraniumx.org
+[Explorer](explorer.uraniumx.org)
 
-main site: urx.zone
+[Website](https://urx.zone/)
 
 Community/Help
 -------
-https://discord.gg/xFxtY78
+* Ask for help on the [UraniumX](https://discord.gg/xFxtY78) discord channel.
 
